@@ -68,7 +68,7 @@ Základní herní jednotka. Pouze během ní se vyhodnocují *herní* stavy, akc
 
 # *Herní* akce
 
-# Poslední dotek
+## Poslední dotek
 * **Podmínka:** Určí se *hráč*, který se míče dotkl jako poslední před opuštěním bazénu nebo zastavením mimo vodu bez kontaktu s *hráčem*.
 * **Následek:** Tento *hráč* je vyřazen z *kola*, není-li stanoveno jinak. V případě sporného doteku se může *hra* opakovat.
 
